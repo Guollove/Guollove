@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=XuxuGood&show_icons=true&hide_border=truetheme=dark">
 
 <!--
