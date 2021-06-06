@@ -1,6 +1,6 @@
 ## 👋 Hi 欢迎访问我的GitHub
 
-<img align='right' src="https://profile-counter.glitch.me/wejudging/count.svg" alt="访客数量"/>
+<img align='right' src="https://profile-counter.glitch.me/XuxuGood/count.svg" alt="访客数量"/>
 
 - 😄**后端** C,C++,Java,Python,go
 - 😃**前端** HTML,CSS,JavaScript, vue
