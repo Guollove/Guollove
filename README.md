@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=XuxuGood&show_icons=true&hide_border=truetheme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=XuxuGood&show_icons=true&hide_border=truetheme=dark">
 
 <!--
 **XuxuGood/XuxuGood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
